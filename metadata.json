@@ -1,0 +1,5 @@
+{
+  "name": "Pixel Art Generator",
+  "description": "Generate pixel art from a text prompt using Google's Imagen model. This application supports both English and Kurdish languages.",
+  "requestFramePermissions": []
+}
